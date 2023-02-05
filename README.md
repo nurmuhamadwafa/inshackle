@@ -1,8 +1,4 @@
 # Inshackle v1.0
-## Inshackle v1.0 github.com/nurmuhamadwafa/inshackle
-## IG : instagram.com/nurmuhamadwafa
-
-Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
 
 ### Features:
 #### Unfollow Tracker
@@ -18,5 +14,3 @@ git clone https://github.com/xd20111/inshackle
 cd inshackle
 bash inshackle.sh
 ```
-
-### Happy Hacking #xd20111
