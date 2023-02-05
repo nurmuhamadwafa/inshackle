@@ -10,7 +10,7 @@
 
 ### Usage:
 ```
-git clone https://github.com/xd20111/inshackle
+git clone https://github.com/nurmuhamadwafa/inshackle
 cd inshackle
 bash inshackle.sh
 ```
